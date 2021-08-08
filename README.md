@@ -1,8 +1,4 @@
-# { name } resume
-
-## Sample
-
-https://github.com/kawamataryo/resume
+# Kenji Tsutsumi resume
 
 ## Features
 
