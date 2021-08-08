@@ -106,7 +106,7 @@ SRE 支援事業にて、Kubernetes やパブリッククラウドの運用コ�
 
 * インフラ： AWS（EC2, RDS, S3、ELB、Route53 など）
 * 構成管理ツール： Packer、CloudFormation、Ansible、Terraform
-* コンテナ： Docker
+* コンテナ： Docker、Rancher
 * コード管理： GitHub
 * CI： CircleCI
 * プロジェクト管理： Redmine
