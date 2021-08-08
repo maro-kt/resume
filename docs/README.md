@@ -5,7 +5,7 @@
 |key|value|
 |---|---|
 |氏名|堤 健二|
-|生年月日|1983年2月|
+|生まれ|1983年2月|
 |住所|大阪府|
 |LinkedIn|[https://www.linkedin.com/in/kenji-tsutsumi-3ba62741](https://www.linkedin.com/in/kenji-tsutsumi-3ba62741)|
 |Wantedly|[https://www.wantedly.com/id/tsutsumi_kenji](https://www.wantedly.com/id/tsutsumi_kenji)|
