@@ -30,28 +30,25 @@ IT 業界でエンジニアとして 18 年以上携わり多数のロールを�
 
 ### 言語
 
-* 日本語： ネイティブ
-* 英語： ある程度の会話は可能（非ネイティブ外国人との会話など）、ドキュメントの読み書きは問題なし
-* 中国語（普通話）： 基本レベル（HSK3）
+|key|value|
+|---|---|
+|日本語|ネイティブ|
+|英語|ある程度の会話は可能（非ネイティブ外国人との会話など）、ドキュメントの読み書きは問題なし|
+|中国語（普通話）|基本レベル（HSK3）|
 
 ---
 
 ## 技術スタック
 
-### インフラ
-
-* AWS
-* GCP
-* Kubernetes
-* Docker
-* Terraform
-* Ansible
-* Prometheus
-
-### プログラミング言語
-
-* Golang
-* Python
+|key|value|
+|---|---|
+|パブリッククラウド|GCP、AWS|
+|サーバレス|Lambda、Fargate、Cloud Run、Cloud Function|
+|Kubernetes|GKE、EKS、Rancher|
+|モニタリング|Cloud Logging、Prometheus|
+|セキュリティ|Falco、Trivy、Splunk、Security Command Center、Google Chronicle|
+|Infrastructrue as Code| Terraform、Docker、Ansible、Packer|
+|プログラミング言語|Go、Python、bash、PowerShell|
 
 ---
 
