@@ -1,4 +1,4 @@
-# Kenji Tsutsumi resume
+# Kenji Tsutsumi Resume
 
 ## Features
 
