@@ -32,8 +32,8 @@ IT 業界でエンジニアとして 18 年以上携わり多数のロールを�
 |key|value|
 |---|---|
 |日本語|ネイティブ|
-|英語|ある程度の会話は可能（海外旅行、日常会話など）。</br> メールやチャットツールのやり取り、英文文書の読み書きは問題なし|
-|中国語|普通話。基本レベル（HSK3）|
+|英語|ある程度の会話は可能（海外旅行、日常会話など）</br> メールやチャットツールのやり取り、英文文書の読み書きは問題なし|
+|中国語|普通話、基本レベル（HSK3）|
 
 <div style="page-break-before:always"></div>
 
@@ -42,7 +42,7 @@ IT 業界でエンジニアとして 18 年以上携わり多数のロールを�
 |key|value|
 |---|---|
 |パブリッククラウド|GCP、AWS|
-|サーバレス|Lambda、Fargate、Cloud Run、Cloud Function|
+|サーバレス|Lambda、Fargate、Cloud Run、Cloud Functions|
 |Kubernetes|GKE、EKS、Rancher|
 |モニタリング|Cloud Logging、Prometheus|
 |セキュリティ|Falco、Trivy、Splunk、Security Command Center、Google Chronicle|
@@ -94,12 +94,13 @@ SRE 支援事業にて、Kubernetes やパブリッククラウドの運用コ�
 
 ### 株式会社アジャイルウェア | インフラエンジニア (2017/08 - 2019/05）
 
-自社クラウドサービス（Lychee クラウド、GIJI）の AWS インフラ管理と運用自動化、インフラチームのリーダーとして参画し、AWS インフラの設計や運用方法の改善にあたる。
+自社クラウドサービス（Lychee クラウド、GIJI）の AWS インフラ管理と運用自動化を主担当。また、インフラチームのリーダーとして、チーム運営および Redmine 個別導入案件のプロジェクト管理なども担当。
 
 * 自社サービスのインフラ運用管理（AWS）
 * セキュリティ対策（ウィルス対策、IDS/IPS、ログ統合管理、認証強化）
 * Infrastructure as code による運用自動化（Ansible、CI/CD など）
 * 社内インフラの管理
+* 採用活動（カジュアル面談、面接対応）
 
 #### 環境
 
