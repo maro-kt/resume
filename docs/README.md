@@ -7,7 +7,7 @@
 |氏名|堤 健二|
 |生まれ|1983年2月|
 |居住地|大阪府|
-|LinkedIn|[https://www.linkedin.com/in/kenji-tsutsumi-3ba62741](https://www.linkedin.com/in/kenji-tsutsumi-3ba62741)|
+|LinkedIn|[https://www.linkedin.com/in/kenjitsutsumi](https://www.linkedin.com/in/kenjitsutsumi)|
 |Wantedly|[https://www.wantedly.com/id/tsutsumi_kenji](https://www.wantedly.com/id/tsutsumi_kenji)|
 
 ---
@@ -45,7 +45,7 @@ IT 業界でエンジニアとして 18 年以上携わり多数のロールを�
 |サーバレス|Lambda、Fargate、Cloud Run、Cloud Functions|
 |Kubernetes|GKE、EKS、Rancher|
 |モニタリング|Cloud Logging、Prometheus|
-|セキュリティ|Falco、Trivy、Splunk、Security Command Center、Google Chronicle|
+|セキュリティ|Sysdig, Trivy, CrowdStrike, ZScaler, Splunk、Security Command Center、Google Chronicle|
 |Infrastructrue as Code| Terraform、Docker、Ansible、Packer|
 |プログラミング言語|Go、Python、bash、PowerShell|
 
