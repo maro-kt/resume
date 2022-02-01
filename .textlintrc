@@ -12,7 +12,8 @@
         "max": 3
       },
       "max-kanji-continuous-len": {
-        "max": 6
+        "max": 6,
+        "allow": ["大阪府立工業高等専門学校", "電子情報工学科"]
       },
       "arabic-kanji-numbers": true,
       "no-mix-dearu-desumasu": {
