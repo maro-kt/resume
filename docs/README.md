@@ -44,10 +44,11 @@ IT 業界でエンジニアとして 18 年以上携わり多数のロールを�
 |パブリッククラウド|GCP、AWS|
 |サーバレス|Lambda、Fargate、Cloud Run、Cloud Functions|
 |Kubernetes|GKE、EKS、Rancher|
-|モニタリング|Cloud Logging、Prometheus|
-|セキュリティ|Sysdig, Trivy, CrowdStrike, ZScaler, Splunk、Security Command Center、Google Chronicle|
+|データベース|MySQL、PostgreSQL、MongoDB、DynamoDB|
+|モニタリング|Cloud Logging、DataDog、Prometheus、Zabbix、Mackerel|
+|セキュリティ|Sysdig, Trivy, CrowdStrike, ZScaler, Splunk、AWS Security Hub、Google Security Command Center、Google Chronicle|
 |Infrastructrue as Code| Terraform、Docker、Ansible、Packer|
-|プログラミング言語|Go、Python、bash、PowerShell|
+|プログラミング言語|Go、Python、bash、PowerShell、VBA、JavaScript、jQuery|
 
 ---
 
