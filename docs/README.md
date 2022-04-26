@@ -49,6 +49,7 @@ IT 業界でエンジニアとして 18 年以上携わり多数のロールを�
 |セキュリティ|Sysdig, Trivy, CrowdStrike, ZScaler, Splunk、AWS Security Hub、Google Security Command Center、Google Chronicle|
 |Infrastructrue as Code| Terraform、Docker、Ansible、Packer|
 |プログラミング言語|Go、Python、bash、PowerShell、VBA、JavaScript、jQuery|
+|ビッグデータ|Google BigQuery、AWS Athena、Tableau、Re:dash|
 
 ---
 
